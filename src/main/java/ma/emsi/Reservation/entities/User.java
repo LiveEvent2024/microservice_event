@@ -1,4 +1,4 @@
-package ma.emsi.Event.entities;
+package ma.emsi.Reservation.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
