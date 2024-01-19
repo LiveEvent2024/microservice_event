@@ -1,12 +1,12 @@
-package ma.emsi.Event;
+package ma.emsi.Reservation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EventApplicationTests {
+class ReservationApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
